@@ -1,0 +1,155 @@
+*{
+    font-family: 'Old Standard TT';
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+
+}
+nav{
+    
+    height: 80px;
+    background: #000000;
+    padding: 14px 115px 14px 120px;
+}
+nav .container{
+    display: flex;
+    align-items: center;
+    padding: 0;
+    
+}
+.header-menu{
+    display: flex;
+    padding: 0;
+    margin-bottom: 0;
+    width: 500px;
+    
+
+}
+.header-wrap{
+    width: inherit;
+    display: flex;
+    align-items: center;
+}
+.header-logo{
+    color: #FFAE2B;
+    font-family: Old Standard TT;
+    font-size: 22px;
+}
+.menu-item{
+    margin-right: 40px;
+    
+}
+.menu-item1{
+    margin-right: 28px;
+    margin-left: 42px;
+}
+.menu-link{
+    color: #ACA592;
+    font-size: 11px;
+    text-transform: uppercase;
+}
+.menu-link1{
+    color: #FFAE2B;
+    font-size: 11px;
+    text-transform: uppercase;
+}
+.menu-item2{
+    margin-right: 36px;
+}
+.header-btn{
+    width: 147px;
+    height: 52px;   
+    color: #FFAE2B;
+    text-align: center;
+    font-size: 11px;
+    text-transform: uppercase;
+    background: #000;
+    border: 1px solid #FFAE2B;
+
+}
+.agency{
+    display: flex;
+    min-height: 602px;
+    background: url(../img/IMAGE\ \(1\).png) center center / cover no-repeat;
+}
+.agency-title{
+    color: #FFAE2B;
+    text-align: center;
+    font-family: Old Standard TT;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-top: 120px;
+}
+.agency-subtitle{
+    color: #FFF;
+    text-align: center;
+    font-size: 70px;
+    font-style: normal;
+    line-height: 80px;
+    letter-spacing: 1px;
+    margin-top: 15px;
+}
+.agency-btn{
+    width: 143px;
+    height: 50px;
+    background: #FFAE2B;
+    text-align: center;
+    font-size: 11px;
+    text-transform: uppercase;
+    border: none;
+    display: block;
+    margin: 0 auto;
+    cursor: pointer;
+    margin-top: 35px;
+}
+.template{
+    height: 2730px;
+    background: #181511;
+    padding-top: 120px;
+}
+.template-title{
+    color: #ACA592;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+
+}
+.template-subtitle{
+    color: #FFAE2B;
+    text-align: center;
+    font-size: 60px;
+    margin-top: 10px;
+}
+.template-item{
+    border: 1px solid #4B4136;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.template-item1{
+
+}
+.template-img{
+    display: block;
+    margin: 0 auto;
+}
+.template-text{
+    color: #FFF;
+    font-family: Old Standard TT;
+    font-size: 13px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 20px;
+    margin-bottom: 41px;
+}
+
+
+
